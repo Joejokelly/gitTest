@@ -4,6 +4,7 @@ public class Book {
 	long id;
 	String name;
 	String author;
+	String lastname;
 
 	public Book(long id, String name, String author) {
 		super();
@@ -15,6 +16,7 @@ public class Book {
 	public long getId() {
 		return id;
 	}
+	
 
 	public String getName() {
 		return name;
