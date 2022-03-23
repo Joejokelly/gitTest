@@ -5,6 +5,7 @@ public class Book {
 	String name;
 	String author;
 	String lastname;
+	String testname;
 
 	public Book(long id, String name, String author) {
 		super();
