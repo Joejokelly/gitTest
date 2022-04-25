@@ -5,10 +5,16 @@ public class Book {
 	String name;
 	String author;
 	String lastname;
+<<<<<<< HEAD
 	STring testname;
         String date;
 	String mgrname;
 
+=======
+	String testname;
+	String testagain;
+	
+>>>>>>> cbae441cfd3aa3e9c7fc17224d4c83685e950607
 
 	public Book(long id, String name, String author) {
 		super();
