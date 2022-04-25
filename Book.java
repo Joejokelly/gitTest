@@ -6,7 +6,8 @@ public class Book {
 	String author;
 	String lastname;
 	STring testname;
-    String date;
+        String date;
+	String mgrname;
 
 
 	public Book(long id, String name, String author) {
